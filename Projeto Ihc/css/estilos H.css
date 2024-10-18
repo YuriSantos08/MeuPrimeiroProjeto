@@ -1,0 +1,127 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+nav {
+    background-color: #A77B4D;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
+}
+
+header {
+    background-color: #F2E2CE;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: #A77B4D;
+}
+
+main {
+    padding: 20px;
+    flex: 1;
+}
+
+article {
+    background-color: #F2E2CE;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: justify;
+    border-radius: 8px;
+}
+
+article h2 {
+    color: #A77B4D;
+}
+
+article h3 {
+    color: #333;
+}
+
+article p {
+    margin-bottom: 10px;
+}
+
+article ul {
+    padding-left: 20px;
+}
+
+article li {
+    margin-bottom: 5px;
+}
+
+article p:last-child {
+    margin-top: 20px;
+    font-style: italic;
+}
+
+figure {
+    margin: 20px 0;
+    text-align: center;
+}
+
+figure img {
+    max-width: 800%; 
+    height: auto;
+    border-radius: 8px;
+    width: 40%;
+}
+
+.footer {
+    background-color: #A77B4D;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: auto;
+}
+
+#botao {
+    background-color: #A77B4D;
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    margin: auto; 
+    display: block; 
+    margin: -10px auto 0;
+}
+
+.botao {
+    justify-content: center;
+    display: block;
+    border: none;
+}
+
+.botao:hover {
+    color: rgb(250, 250, 250);
+}
+
+

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="Projeto de ihc" content="description">
+    <meta name="author" content="Yuri da Costa Santos , MA:24102880">
+    <title>História do Dia Nacional do Café</title>
+    <link rel="stylesheet" href="css/estilos H.css">
+</head>
+<body>
+    <div class="conteudo">
+        <nav>
+            <ul>
+                <li><a href="Projeto ihc.html">Início</a></li>
+                <li><a href="Beneficios.html">Benefícios</a></li>
+                <li><a href="Receitas.html">Receitas</a></li>
+                <li><a href="historia.html">História</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+        <header>
+            <h1>História do Dia Nacional do Café</h1>
+        </header>
+        
+        <main>
+            <article>
+                <p>O Dia Nacional do Café é uma celebração anual que ocorre no Brasil em 24 de maio. Este dia foi criado para homenagear a importância do café na cultura e na economia brasileira. A data foi instituída pela Associação Brasileira da Indústria de Café (ABIC) em 2005, com o objetivo de celebrar o início da colheita nas principais regiões produtoras de café do país.</p>
+            </article>
+            <figure>
+                <img src="img/historia.jpg">
+            </figure>
+            <article>
+                <h2>História e Significado</h2>
+                <h3>Origem</h3>
+                <p>A escolha do dia 24 de maio está ligada ao calendário de colheita do café no Brasil. É nessa época que muitas fazendas começam a colher os grãos maduros, simbolizando o início de um ciclo crucial na cadeia produtiva do café.</p>
+                <h3>Importância Econômica</h3>
+                <p>O café é uma das commodities mais importantes do Brasil, sendo o país o maior produtor e exportador mundial. A cultura do café desempenha um papel vital na economia brasileira, gerando emprego e renda para milhões de pessoas.</p>
+                <h3>Patrimônio Cultural</h3>
+                <p>O café também tem um profundo significado cultural no Brasil. Além de ser uma bebida cotidiana para muitos brasileiros, o café está presente em tradições, festas e é um símbolo de hospitalidade e convívio social.</p>
+                <h3>Promoção e Consumo</h3>
+                <p>O Dia Nacional do Café serve para promover o consumo e a valorização do café de qualidade. Diversos eventos, promoções e campanhas de marketing são realizados para incentivar os consumidores a apreciar e conhecer mais sobre as variedades e métodos de preparo do café.</p>
+            </article>
+            <article>
+                <h2>Atividades e Comemorações</h2>
+                <h3>Eventos e Degustações</h3>
+                <p>Muitas cidades organizam eventos que incluem degustações, feiras e workshops sobre café.</p>
+                <h3>Promoções Especiais</h3>
+                <p>Cafeterias e lojas especializadas oferecem promoções e descontos em produtos relacionados ao café.</p>
+                <h3>Educação e Informação</h3>
+                <p>São realizados seminários e palestras que abordam temas como a sustentabilidade na produção de café, inovações tecnológicas e a história do café no Brasil.</p>
+            </article>
+            <article>
+                <h2>Impacto Social e Ambiental</h2>
+                <h3>Sustentabilidade</h3>
+                <p>A celebração também destaca a importância de práticas sustentáveis na produção de café, incluindo o manejo responsável dos recursos naturais e o respeito aos direitos dos trabalhadores.</p>
+                <h3>Empoderamento das Comunidades</h3>
+                <p>Muitas iniciativas promovem o desenvolvimento das comunidades produtoras de café, buscando melhorar as condições de vida e trabalho dos agricultores.</p>
+            </article>
+            <article>
+                <h2>Conclusão</h2>
+                <p>O Dia Nacional do Café é mais do que uma simples celebração; é um reconhecimento da importância do café para a identidade brasileira. Ele celebra tanto os aspectos econômicos quanto culturais do café, promovendo a apreciação e o consumo consciente dessa bebida que é tão querida no Brasil.</p>
+            </article>
+        </main>
+    </div>
+    <button id="botao" class="botao">Voltar ao Topo</button>
+    <div class="conteudo">
+    </div>
+    
+    <footer class="footer">
+        <p>© 2024 Dia Nacional do Café</p>
+    </footer>
+</body>
+</html>

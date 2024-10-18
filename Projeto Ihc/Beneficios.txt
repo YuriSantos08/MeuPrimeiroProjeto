@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="Projeto de ihc" content="description">
+    <meta name="author" content="Yuri da Costa Santos, MA:24102880">
+    <title>Benefícios do Café</title>
+    <link rel="stylesheet" href="css/estilos B.css">
+</head>
+<body>
+    <div>
+        <nav>
+            <ul>
+                <li><a href="Projeto ihc.html">Início</a></li>
+                <li><a href="Beneficios.html">Benefícios</a></li>
+                <li><a href="Receitas.html">Receitas</a></li>
+                <li><a href="historia.html">História</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </div>
+    <header>
+        <h1>Descubra os Incríveis Benefícios do Café</h1>
+        <figure>
+            <img src="img/beneficios.jpg" alt="img beneficios">
+        </figure>
+        <p>Uma Celebração ao Dia Nacional do Café!</p>
+    </header>
+
+    <section>
+        <p>O café, essa bebida amada por milhões ao redor do mundo, não é apenas um delicioso acompanhamento para o dia a dia, mas também um verdadeiro aliado para a saúde e o bem-estar. No Dia Nacional do Café, vamos além do sabor e desvendarmos os incríveis benefícios que essa bebida extraordinária pode trazer para sua vida:</p>
+
+        <article>
+            <h2>1. Estimula o Sistema Nervoso</h2>
+            <p>A cafeína, principal componente do café, atua como um estimulante natural do sistema nervoso central, aumentando a produção de neurotransmissores como dopamina e serotonina, que influenciam no humor, na memória, na concentração e no combate à fadiga.</p>
+        </article>
+
+        <article>
+            <h2>2. Melhora o Desempenho Físico</h2>
+            <p>A cafeína também atua como um ergogênico, otimizando o desempenho físico durante exercícios. Ela aumenta a disponibilidade de ácidos graxos livres, fornecendo energia para os músculos, e reduz a percepção de fadiga, permitindo que você treine por mais tempo e com mais intensidade.</p>
+        </article>
+
+        <article>
+            <h2>3. Protege o Fígado</h2>
+            <p>O café possui compostos bioativos com propriedades antioxidantes e anti-inflamatórias que protegem o fígado contra danos causados por radicais livres, reduzindo o risco de doenças como cirrose e hepatite.</p>
+        </article>
+
+        <article>
+            <h2>4. Diminui o Risco de Doenças Neurodegenerativas</h2>
+            <p>Estudos sugerem que o consumo moderado de café pode reduzir o risco de desenvolver doenças neurodegenerativas como Alzheimer e Parkinson. A cafeína e outros compostos presentes no café podem proteger as células nervosas contra danos e estimular a produção de neuroprotetores.</p>
+        </article>
+
+        <article>
+            <h2>5. Auxilia no Controle do Peso</h2>
+            <p>A cafeína pode auxiliar no processo de emagrecimento, pois aumenta o metabolismo e promove a queima de gordura corporal. Além disso, o café pode reduzir o apetite e proporcionar sensação de saciedade por mais tempo.</p>
+        </article>
+
+        <article>
+            <h2>6. Previne o Diabetes Tipo 2</h2>
+            <p>O consumo regular de café está associado a um menor risco de desenvolver diabetes tipo 2. A cafeína e outros compostos do café podem melhorar a sensibilidade à insulina e reduzir a produção de glicose no fígado.</p>
+        </article>
+
+        <article>
+            <h2>7. Reduz o Risco de Certas Mortes</h2>
+            <p>Estudos populacionais demonstram que o consumo moderado de café pode estar associado a um menor risco de morte por doenças cardíacas, acidente vascular cerebral e alguns tipos de câncer.</p>
+        </article>
+
+        <article>
+            <h2>8. Fonte de Antioxidantes</h2>
+            <p>O café é rico em antioxidantes, que combatem os radicais livres e protegem as células contra danos oxidativos. Esses antioxidantes podem contribuir para a prevenção de diversas doenças crônicas.</p>
+        </article>
+
+        <article>
+            <h2>9. Melhora o Humor e Combate a Depressão</h2>
+            <p>A cafeína e outros compostos do café podem aumentar a produção de neurotransmissores como dopamina e serotonina, que influenciam no humor e combatem os sintomas da depressão.</p>
+        </article>
+
+        <article>
+            <h2>10. Fonte de Nutrientes Essenciais</h2>
+            <p>O café contém diversos nutrientes importantes para o organismo, como magnésio, potássio, riboflavina e niacina, que contribuem para o bom funcionamento do sistema nervoso, muscular e cardiovascular.</p>
+        </article>
+    </section>
+
+    <article>
+        <p>Lembre-se:</p>
+        <ul>
+            <li>O consumo moderado de café, cerca de 3 a 4 xícaras por dia, é considerado seguro para a maioria dos adultos saudáveis.</li>
+            <li>Exagerar no consumo pode causar efeitos colaterais como ansiedade, insônia e palpitações cardíacas.</li>
+            <li>Gestantes, lactantes e pessoas com problemas de saúde devem consultar um médico antes de aumentar o consumo de café.</li>
+        </ul>
+        <p>Celebre o Dia Nacional do Café desfrutando dessa bebida deliciosa e aproveitando seus incríveis benefícios para a saúde e o bem-estar!</p>
+    </article>
+
+    <button id="botao" class="botao">Voltar ao Topo</button>
+    <div class="conteudo">
+    </div>
+    <div class="footer">
+        <p>© 2024 Dia Nacional do Café</p>
+    </div>
+</body>
+</html>
+
